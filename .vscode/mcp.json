@@ -5,7 +5,7 @@
         "args": [
             "-m",
             "mcp_server_selenium",
-            "--user_data_dir=/home/xuananh/.config/google-chrome-selenium-mcp-copy-google-meet-caption",
+            "--user_data_dir=/home/xuananh/.selenium-mcp-server-chrome-profile/copy-google-meet-caption",
             "--port=9227"
         ],
         "env": {
